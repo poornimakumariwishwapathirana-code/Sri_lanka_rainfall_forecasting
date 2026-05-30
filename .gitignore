@@ -1,0 +1,20 @@
+# .gitignore content
+# Ignore generated data files
+*.csv
+*.hdf5
+*.pkl
+
+# Ignore Python specific files
+__pycache__/
+*.pyc
+*.log
+
+# Ignore Jupyter/Colab specific files
+.ipynb_checkpoints/
+.vscode/
+.env
+.DS_Store
+
+# Ignore large model files if any
+*.h5
+*.tf
