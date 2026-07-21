@@ -167,70 +167,14 @@ Models were evaluated using:
 
 ---
 
-## 📁 Repository Structure
-
-```
-Rainfall-Forecasting/
-│
-├── Data/
-│
-├── Notebooks/
-│
-├── Figures/
-│
-├── Results/
-│
-├── Report/
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
 
 ## 🚀 How to Run
 
-### 1. Clone the repository
+### 1. Download the ipynb file
 
-```bash
-git clone https://github.com/yourusername/Rainfall-Forecasting.git
-```
-
-### 2. Navigate to the project
-
-```bash
-cd Rainfall-Forecasting
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
+### 2. Launch Jupyter Notebook
 
 ### 5. Open the notebooks and run the cells sequentially.
-
----
-
-## 📷 Sample Outputs
-
-The repository contains:
-
-- Rainfall Time Series Plots
-- Moving Average Plots
-- Seasonal Boxplots
-- Histograms
-- Correlation Heatmaps
-- ACF/PACF Plots
-- Residual Diagnostic Plots
-- Forecast Comparison Graphs
 
 ---
 
@@ -245,25 +189,5 @@ Potential extensions include:
 - Automating data retrieval from the NASA POWER API.
 
 ---
-
-## 📄 Report
-
-The complete project report is available in this repository.
-
----
-
-## 👤 Author
-
-**P. M. P. K. Wishwapathirana**
-
-BSc (Hons) in Applied Statistics
-
-Department of Statistics
-
-University of Colombo
-
----
-
-## 📜 License
 
 This project was developed for academic purposes.
